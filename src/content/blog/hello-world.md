@@ -1,7 +1,7 @@
 ---
 title: So, you decided to buy an Astro Van
-description: The story of buying my Astro Van
-published: 2023-04-23
+description: My thoughts on buying an Astro Van
+published: 2023-04-18
 ---
 
 Living in the West near the Rocky Mountains, $100k+ Sprinter vans are everywhere. And yeah, you want one (how could you not?) But for the price of a condo? After a while, you start wondering if there's another way. What if you could get all the adventure, off-roading, and mountain bike carrying capabilities for a tenth of the price?

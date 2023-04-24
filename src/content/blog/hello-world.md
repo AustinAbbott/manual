@@ -8,7 +8,7 @@ Living in the West near the Rocky Mountains, $100k+ Sprinter vans are everywhere
 
 Enter the Astro Van.
 
-![2002 Astro Van for sale](/assets/for-sale.jpeg "My Astro Van before I bought it")
+![2002 Astro Van for sale](assets/for-sale.jpeg "My Astro Van before I bought it")
 
 Sure, it's older, maybe a little rough around the edges, but the AWD model with a few mods are kick-butt. Built like a truck, better fuel economy than a modern 4Runner, with enough room to carry yourself and 7 friends. What's not to like? If you can find one in good shape, nab it.
 

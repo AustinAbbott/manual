@@ -16,6 +16,6 @@ export const SIDEBAR_ITEMS = {
     "/docs/get-started/installation",
   ],
   Tutorials: ["/docs/tutorials/build-x"],
-  Guides: ["/docs/guides/migrate-from-z", "/docs/guides/windshield-wipers"],
+  Guides: [ "/docs/guides/door-locks", "/docs/guides/windshield-wipers", "/docs/guides/transmission-filter"],
   Reviews: ["/docs/reviews/skid-plate"],
 };

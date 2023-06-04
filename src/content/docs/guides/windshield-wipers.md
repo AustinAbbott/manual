@@ -13,3 +13,5 @@ Yes.
 
 ### What I bought
 Because I was in a hurry, I went with [cheap OEM ACDelco 8-4418 wipers](https://www.amazon.com/dp/B004969RC). I'll probably get something better next time, though.
+
+Confirmed fit on my 2002 Astro: ✅ 

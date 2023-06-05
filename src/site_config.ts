@@ -16,6 +16,10 @@ export const SIDEBAR_ITEMS = {
     "/docs/get-started/installation",
   ],
   Tutorials: ["/docs/tutorials/build-x"],
-  Guides: [ "/docs/guides/door-locks", "/docs/guides/windshield-wipers", "/docs/guides/transmission-filter"],
-  Reviews: ["/docs/reviews/skid-plate"],
+  Guides: [
+    "/docs/guides/door-locks",
+    "/docs/guides/windshield-wipers",
+    "/docs/guides/transmission-filter",
+  ],
+  Reviews: ["/docs/reviews/led-bumper", "/docs/reviews/skid-plate"],
 };

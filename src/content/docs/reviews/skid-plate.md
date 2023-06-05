@@ -1,3 +1,3 @@
 ---
-title: Review - Journeys Off Road Skid Plate
+title: Journeys Off Road Skid Plate
 ---

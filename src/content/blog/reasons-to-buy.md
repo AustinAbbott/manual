@@ -4,7 +4,7 @@ description: Some fun facts, history, and reasons you should get one
 published: 2023-04-18
 ---
 
-### Built like a truck
+### Great size (inside and out)
 ### AWD
 ### More power than similar sized vans
 ### Affordable

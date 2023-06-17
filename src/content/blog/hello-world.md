@@ -4,11 +4,11 @@ description: My thoughts on buying an Astro Van
 published: 2023-04-18
 ---
 
-Living in the West near the Rocky Mountains, $100k+ Sprinter vans are everywhere. And yeah, you want one (how could you not?), but for the price of a home down payment? After a while, you start wondering if there's another way. What if you could get all the adventure, off-roading, and mountain bike carrying capabilities for a tenth of the price?
+Living near the Rocky Mountains, $100k+ Sprinter vans are everywhere. And yeah, you want one (how could you not?), but for the price of a home down payment? After a while, you start wondering if there's another way. What if you could get all the adventure, off-roading, and mountain bike carrying capabilities for a tenth of the price?
 
 Enter the Astro Van.
 
-![2002 Astro Van for sale](assets/for-sale.jpeg "My Astro Van before I bought it")
+![2002 Astro Van for sale](/assets/for-sale.jpeg "My Astro Van before I bought it")
 
 Sure, it's older, maybe a little rough around the edges, but the AWD model with a few mods are kick-butt. Built like a truck, better fuel economy than a modern 4Runner, with enough room to carry yourself and 7 friends. What's not to like? If you can find one in good shape, nab it.
 

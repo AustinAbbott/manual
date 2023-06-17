@@ -22,4 +22,7 @@ TBD
 
 ## Helpful links
 
-- Location for door lock relay 2002 astro: [Fixya](https://www.fixya.com/cars/t27106835-location_door_lock_relay_2002_astro), [Internet Archive link](https://web.archive.org/web/20230604200905/https://www.fixya.com/cars/t27106835-location_door_lock_relay_2002_astro)
+#### Location for door lock relay 2002 on Astro:
+
+- [Fixya](https://www.fixya.com/cars/t27106835-location_door_lock_relay_2002_astro), [Internet Archive link](https://web.archive.org/web/20230604200905/https://www.fixya.com/cars/t27106835-location_door_lock_relay_2002_astro)
+- [AstroSafari](https://www.astrosafari.com/threads/bcm-and-door-lock-relay.26818/post-267354)

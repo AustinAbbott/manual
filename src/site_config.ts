@@ -17,6 +17,7 @@ export const SIDEBAR_ITEMS = {
   ],
   Tutorials: ["/docs/tutorials/build-x"],
   Guides: [
+    "/docs/guides/abs-brake-light",
     "/docs/guides/door-locks",
     "/docs/guides/led-bumper-install",
     "/docs/guides/transmission-filter",

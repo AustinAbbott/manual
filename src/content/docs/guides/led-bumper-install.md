@@ -13,3 +13,10 @@ title: Journeys Off Road LED Bumper
 ## Questions I had while installing
 
 Do I need multiple wiring harnesses for independent control of the light bar and spot lights?
+
+
+My question to Bing Chat:
+"I have a bumper that has a light bar and two led spot lights. I'd like to control the light bar independently of the spot lights. How would I do that with relays?"
+
+Answer: 
+"You can use two relays to control the light bar and spot lights independently."

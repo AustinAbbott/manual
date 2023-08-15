@@ -11,6 +11,9 @@ export default defineConfig({
     plugins: [rawFonts(['.ttf'])],
     optimizeDeps: { exclude: ['@resvg/resvg-js'] }
   },
+  // Allows early access to Astro's new image optimization, which supports markdown
+  // https://astro.build/blog/images/
+  experimental: { assets: true },
 });
 
 function rawFonts(ext) {

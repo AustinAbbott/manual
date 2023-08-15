@@ -2,7 +2,7 @@
 title: ABS + Brake Light Issue
 ---
 
-## Issue: My ABS and emergency lights are on 
+## Issue: My ABS and emergency brake lights are on 
 
 Resources: 
 

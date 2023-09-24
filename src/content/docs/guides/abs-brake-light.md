@@ -18,4 +18,5 @@ Based on the plethora of error codes related to ABS my van displays, I doubt thi
 Resources: 
 
 - [*REAL* FIX ASTRO-VAN KH325 EBCM (brake & abs light on intermittently; C0265 code)](https://youtu.be/P_6Sk7-fm0I)
+    - [Related discussion on astrosafari.com](https://www.astrosafari.com/threads/real-fix-for-astro-van-intermittent-brake-abs-light.16006/)
 

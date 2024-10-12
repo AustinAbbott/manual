@@ -20,6 +20,7 @@ export const SIDEBAR_ITEMS = {
     "/docs/guides/abs-brake-light",
     "/docs/guides/door-locks",
     "/docs/guides/led-bumper-install",
+    "/docs/guides/oil-change",
     "/docs/guides/transmission-filter",
     "/docs/guides/windshield-wipers",
     "/docs/guides/wheels",

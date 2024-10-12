@@ -2,9 +2,10 @@
 title: Oil
 ---
 
-## Oil changes:
+## Oil Type
 
-#### Oil Type
 5W-30
 
-#### Oil filter
+## Oil filter
+
+What I'm using: FRAM Ultra Synthetic Oil Filter, XG3387A

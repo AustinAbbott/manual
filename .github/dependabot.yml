@@ -5,7 +5,7 @@
 
 version: 2
 updates:
-  - package-ecosystem: "npm" # See documentation for possible values
+  - package-ecosystem: "npm" # See documentation for possible values -> https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file#package-ecosystem
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"

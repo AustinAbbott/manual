@@ -24,6 +24,6 @@
     "tailwindcss": "^3.4.14"
   },
   "devDependencies": {
-    "pagefind": "^1.0.0"
+    "pagefind": "^1.2.0"
   }
 }
